@@ -1,0 +1,324 @@
+{
+  "settings": {
+    "name": "Gyve",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c10000",
+        "secondaryColor": "#ffffff",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#fac51c",
+        "dangerColor": "#f28281",
+        "titleFont": "Raleway",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#ca4238",
+        "#7e0101",
+        "#ba0000",
+        "#e2e2e2",
+        "#064a75",
+        "#137ec2",
+        "#c10000"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/ic-gyve-launcher-128x128.png",
+    "noImageResize": "",
+    "uniqCompNum": 6,
+    "versionPublish": "4.11.5",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Gyve Charity",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tom-parsons-426898-unsplash-2000x1799.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ca4238",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Gyve something to those who need it",
+          "text": "We are restoring the trust in donations with a mobile solution that benefits the homeless directly.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "32px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "80px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#064a75",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "The Problem",
+          "subtitle": "we are trying to solve",
+          "testimonial": [
+            {
+              "authorName": "Abanoub S.",
+              "authorBio": "User",
+              "text": "<p><b>Do you have any spare change?</b></p><p>Homeless people are seeing a decline in on the street donations due to 2 main reasons:- People are carrying less cash around than ever before and people fear the money may not actually be helping and instead feeding bad habits.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "User",
+              "text": "<p><b>Sorry I don't have any change.</b></p><p>Gyve came about because of the personal experiences of our founders, they noticed the problem of not carrying cash to enable on the spot donations was becoming increasingly common. As they are all in the mobile software space they sought out to build an app that allows users to donate physical items to those in need.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-4",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-30%20at%2022.29.53-1600x1130.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#137ec2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "How the Gyve App works.",
+          "caption": "<p>Donors can use the Gyve mobile app to scan a persons unique QR address and donate a fixed amount.  At the time of the donation we find our nearest partner to the person in need.  The homeless person will then receive a unique code to the registered phone number to redeem against the goods in a nearby shop.  Our partner will enter the code from the homeless person and give them the goods.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-4"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dark-blue-orange-vector-cute-process-infographic-800x2000.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#efefef"
+            },
+            "B": {
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-30%20at%2022.29.53-1600x1130.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#064a75",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Community of Gyvers",
+          "caption": "<p>Wesley Manta, Ivy Chan, Lucinda Schooley, Max Woollard, Julien Cook, Mark Williams, Aidan Hallett, Robert Brooke and growing...</p><p>If you too, would like to help email <a href=\"mailto:hello@gyve.to\" style=\"font-style: normal;\" class=\"text-warning\">hello@gyve.to</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-30-at-22.44.18-1400x712.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-8"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "left",
+              "font-size": "16px"
+            },
+            ".mbr-section-title": {
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-30%20at%2022.29.53-1600x1130.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#064a75",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "© 2020 Gyve.<div>Charity number: 1188576 (England and Wales).</div><div>International House, 24 Holborn Viaduct, London. EC1A 2BN. United Kingdom.</div><br><div>hello@gyve.to<br><a href=\"mailto:hello@gyve.to\"><br></a></div>",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-4"
+        }
+      ]
+    }
+  }
+}
